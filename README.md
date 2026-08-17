@@ -98,8 +98,8 @@
 
 ### 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/-md65saimon.lovable.app-6A5ACD?style=flat-square&logo=vercel&logoColor=white)](https://md65saimon.lovable.app)
-[![LinkedIn](https://img.shields.io/badge/-linkedin.com/in/65saimon-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/65saimon)
+[![Portfolio](https://img.shields.io/badge/-https://mdsaimonnehali.lovable.app/-6A5ACD?style=flat-square&logo=vercel&logoColor=white)](https://mdsaimonnehali.lovable.app/)
+[![LinkedIn](https://img.shields.io/badge/-www.linkedin.com/in/saimonnehali-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/saimonnehali)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" />
 
